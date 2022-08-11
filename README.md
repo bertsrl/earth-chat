@@ -1,5 +1,8 @@
 # earth-chat
 
+## DEMO:
+https://earth-chat-29e84.web.app
+
 ## Project setup
 ```
 npm install
